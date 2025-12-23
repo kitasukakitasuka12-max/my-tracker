@@ -1,7 +1,7 @@
 export default async function handler(req, res) {
     // 1. Konfigurasi Telegram (GANTI INI)
-    const BOT_TOKEN = "123456789:ABC-GANTI-DENGAN-TOKEN-ANDA"; 
-    const CHAT_ID = "987654321"; // Ganti dengan ID Chat Anda
+    const BOT_TOKEN = "8225221172:AAGVY6PZeDruIazy9prg3Z1JXtI_GdxAPGA"; 
+    const CHAT_ID = "7755675050"; // Ganti dengan ID Chat Anda
 
     // Hanya terima metode POST
     if (req.method !== 'POST') {
